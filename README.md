@@ -1,4 +1,4 @@
-# 📊 Revenue Metrics Dashboard – Data Analytics Project
+# 📊 Game Revenue Analysis Project – Data Analytics Project
 This project presents an interactive Tableau dashboard designed to analyze SaaS revenue performance and cash flow dynamics. The dashboard is built using data queried from a PostgreSQL database via SQL and visualized in Tableau.
 
 ## 🔧 Project Objective
