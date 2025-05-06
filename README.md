@@ -43,5 +43,5 @@ Supports high-level decision-making by identifying trends in user acquisition, r
 
 ## 🔗 Live Dashboard
 You can view the interactive dashboard here:
-👉 Game Revenue Analysis Dashboard on Tableau Public
+👉 https://public.tableau.com/views/GameRevenueAnalysisFinal/GameRevenueAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
